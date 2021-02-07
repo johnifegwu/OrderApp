@@ -1,9 +1,9 @@
 package com.example.orderapp
 
-import android.view.LayoutInflater
-import android.view.View
-import android.view.ViewGroup
-import androidx.recyclerview.widget.RecyclerView
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import androidx.recyclerview.widget.RecyclerView;
 
 class ResturantsAdapter : RecyclerView.Adapter<(ResturantsAdapter.ViewHolder)>() {
 
